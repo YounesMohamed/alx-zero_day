@@ -1,1 +1,1 @@
-git dir containing bash,c and js dirs
+git dir containing bash and c dirs
